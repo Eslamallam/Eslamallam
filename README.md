@@ -11,6 +11,5 @@ Front-end developer who enjoy exploring new technologies,I love JavaScript,React
 
 
 
-- Lives in Egypt :earth_africa:
-- Senior Frontend developer
+
 
