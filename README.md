@@ -7,9 +7,16 @@
  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" align="center"/>
 
 
-Front-end developer who enjoy exploring new technologies,I love JavaScript,React and React Native to build websites and mobile apps. I like agile work environments, looking forward to expand my knowledge in and off work. 
+Front-end developer who enjoy exploring new technologies,I love JavaScript, I like agile work environments, looking forward to expand my knowledge in and off work. 
 
 
+- Tech: :computer: <br />
+<italic> Frameworks  [React, Next] </italic><br />
+Styling [Material UI, Ant Design ,Bootstrap, Styled Component] <br />
+State Management [Redux, Context API] <br />
+Reactive Programming [RxJS] <br />
 
+- Fun Fact: :grin: "There are two ways to write error-free programs; only the third one works"
 
+<strong> I love connecting with different people </strong> so if you want to say hi, <strong> I'll be happy to meet you more! </strong> 😊
 
