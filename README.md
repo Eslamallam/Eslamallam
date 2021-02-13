@@ -11,7 +11,7 @@ Front-end developer who enjoy exploring new technologies,I love JavaScript, I li
 looking forward to expand my knowledge in and off work. 
 
 
-- Tech: :computer: <br />
+- Tech :computer: <br />
 <italic> Frameworks  [React, Next] </italic><br />
 Styling [Material UI, Ant Design ,Bootstrap, Styled Component] <br />
 State Management [Redux, Context API] <br />
