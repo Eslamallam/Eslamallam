@@ -7,7 +7,8 @@
  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" align="center"/>
 
 
-Front-end developer who enjoy exploring new technologies,I love JavaScript, I like agile work environments, looking forward to expand my knowledge in and off work. 
+Front-end developer who enjoy exploring new technologies,I love JavaScript, I like agile work environments,
+looking forward to expand my knowledge in and off work. 
 
 
 - Tech: :computer: <br />
