@@ -17,7 +17,7 @@ Styling [Material UI, Ant Design ,Bootstrap, Styled Component] <br />
 State Management [Redux, Context API] <br />
 Reactive Programming [RxJS] <br />
 
-- Fun Fact: :grin: "There are two ways to write error-free programs; only the third one works"
+- Fun Fact :grin: "There are two ways to write error-free programs; only the third one works"
 
 <strong> I love connecting with different people </strong> so if you want to say hi, <strong> I'll be happy to meet you more! </strong> 😊
 
