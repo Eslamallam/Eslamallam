@@ -12,9 +12,9 @@ looking forward to expand my knowledge in and off work.
 
 
 - Tech :computer: <br />
-<italic> Frameworks  [React, Next] </italic><br />
+<italic> Frameworks  [React, Next, Angular] </italic><br />
 Styling [Material UI, Ant Design ,Bootstrap, Styled Component] <br />
-State Management [Redux, Context API] <br />
+State Management [Redux, Context API, Redux-observable, Redux-Saga] <br />
 Reactive Programming [RxJS] <br />
 
 - Fun Fact :grin: "There are two ways to write error-free programs; only the third one works"
