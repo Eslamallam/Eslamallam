@@ -1,7 +1,11 @@
 # 💫 About Me:
-🔭 I’m a Senior Frontend developer with extensive experience building high-performance, scalable web applications.With a passion for clean code and performance optimization<br><br>⚡ Fun fact "There are two ways to write error-free programs; only the third one works"
-
-
+🔭 I’m a Dynamic Senior Frontend Engineer with 5+ years of experience designing, developing, and
+optimizing high-performance web applications using React, TypeScript, and Angular. Expertise
+in architecting scalable, maintainable solutions and enhancing user experience. Strong
+background in Agile methodologies (Scrum) and cross-functional teamwork. Proven ability to
+translate business requirements into technical solutions. Passionate about leveraging
+cutting-edge technologies to build intuitive, customer-focused applications while ensuring clear
+communication between teams.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eslamallam) 
 
