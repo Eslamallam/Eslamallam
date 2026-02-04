@@ -1,11 +1,21 @@
 # 💫 About Me:
-🔭 I’m a Dynamic Senior Frontend Engineer with 5+ years of experience designing, developing, and
-optimizing high-performance web applications using React, TypeScript, and Angular. Expertise
-in architecting scalable, maintainable solutions and enhancing user experience. Strong
-background in Agile methodologies (Scrum) and cross-functional teamwork. Proven ability to
-translate business requirements into technical solutions. Passionate about leveraging
-cutting-edge technologies to build intuitive, customer-focused applications while ensuring clear
-communication between teams.
+🔭 II’m a Software Engineer with 8+ years of experience delivering high-performance, user-focused web applications across SaaS, fintech, telecommunications, and blockchain sectors. While my core expertise is in building scalable and maintainable frontend systems, I also have hands-on experience across the backend, giving me a strong full-stack perspective.
+
+Key Highlights:
+
+Led the development of no-code workflow platforms, improving usability and driving customer engagement.
+
+Migrated and modernized legacy frontend and backend codebases, reducing technical debt and improving maintainability.
+
+Built and integrated secure, scalable authentication and user management systems.
+
+Designed and optimized APIs and data flows to improve application performance and reliability.
+
+Implemented frontend performance optimizations that significantly reduced load times and improved user experience.
+
+Mentored and collaborated with cross-functional teams, promoting best practices in clean, scalable code and modern development workflows.
+
+I’m passionate about building clean, maintainable, and accessible software that delivers real value to users. I thrive in agile environments, working closely with product, design, and backend teams to create seamless, end-to-end web experiences.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eslamallam) 
 
