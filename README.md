@@ -1,21 +1,14 @@
 # 💫 About Me:
-🔭 II’m a Software Engineer with 8+ years of experience delivering high-performance, user-focused web applications across SaaS, fintech, telecommunications, and blockchain sectors. While my core expertise is in building scalable and maintainable frontend systems, I also have hands-on experience across the backend, giving me a strong full-stack perspective.
-
-Key Highlights:
-
-Led the development of no-code workflow platforms, improving usability and driving customer engagement.
-
-Migrated and modernized legacy frontend and backend codebases, reducing technical debt and improving maintainability.
-
-Built and integrated secure, scalable authentication and user management systems.
-
-Designed and optimized APIs and data flows to improve application performance and reliability.
-
-Implemented frontend performance optimizations that significantly reduced load times and improved user experience.
-
-Mentored and collaborated with cross-functional teams, promoting best practices in clean, scalable code and modern development workflows.
-
-I’m passionate about building clean, maintainable, and accessible software that delivers real value to users. I thrive in agile environments, working closely with product, design, and backend teams to create seamless, end-to-end web experiences.
+I'm a senior frontend engineer with 8+ years of experience building complex, data-driven web applications using React, TypeScript, and Next.js, with full-stack reach across Node.js, GraphQL, REST APIs, and AWS.
+ 
+Most of my career has been spent on platforms used by operational teams, not public marketing sites. Workflow builders, monitoring dashboards, admin panels, and configuration-heavy interfaces where reliability and clear data presentation directly impact how people do their jobs. I've built these across SaaS, fintech, communications, and government sectors, working remotely for international teams based in Dubai and across Europe for the past five years.
+ 
+What I've shipped: Omni Link-Studio, an enterprise no-code workflow automation platform where I owned the full frontend architecture, built a shared component library across 4 products, and brought test coverage above 90%. Invest in Dubai, a government-scale AI conversational platform. True North, a real-time operational monitoring dashboard used daily by support teams.
+ 
+I don't just implement tickets. I work closely with product, design, and backend teams to shape architecture and features from the start. I've mentored engineers, led code reviews, and built systems other developers built on for years.
+ 
+My focus: maintainable frontend architecture, accessibility (WCAG), performance optimisation, reusable component systems, and long-term product quality.
+ 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eslamallam) 
 
