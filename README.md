@@ -74,6 +74,6 @@ Personalised video messaging platform for special occasions
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eslamallam)
 📧 eslamallam14@gmail.com
-🌍 Cairo, Egypt — Open to remote or relocation (EU)
+🌍 Cairo, Egypt — Open to remote or relocation
 
 [![](https://visitcount.itsvg.in/api?id=eslamallam&icon=0&color=0)](https://visitcount.itsvg.in)
